@@ -1,4 +1,4 @@
-# Basic Fab Academy Course Info
+# Basic Bio Academy Course Info
 
 ## Weekly Schedule and Topics Covered
 
@@ -12,14 +12,6 @@ Refer to the current schedule for detailed information.
 
 Local Instructors and Gurus are also required to attend the weekly prep meeting on Wednesdays 8:30 AM EST, 30 minutes** **before the start of class.
 
-## Weekly Homework Reviews / Help Sessions (Experiential 2016)
-
-Homework review sessions led by Gurus will be staggered according to global time. Exact time will be confirmed by the SN Gurus.
-
-All sessions take place on the MCU conferencing system on channel 4 - Class. More information on this in the section below entitled "Video Conferencing".
-
-Due to the limited number of MCU connections, students must go to their lab to participate with their local working group.
-
 ## Students: Basic Course Requirements
 
 ### Student Time Commitment
@@ -30,7 +22,7 @@ The time commitment is about 16+ hours a week at minimum, but could be far great
 
 Students are required to document their work each week for the unit covered and homework will be reviewed during each weekly class cycle. Your local instructor or remote guru will review your documentation in detail every four weeks to make sure you are not falling behind.
 
-Your Fab Academy documentation must show completion of the unit and core skill competencies. It will be in HTML format and must be able to exist within a GIT archive.
+Your Bio Academy documentation must show completion of the unit and core skill competencies. It will be in HTML format and must be able to exist within a GIT archive.
 
 At minimum, the Global Evaluation Committee expects a student’s documentation to include:
 
