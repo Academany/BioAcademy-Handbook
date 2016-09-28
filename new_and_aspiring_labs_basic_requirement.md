@@ -1,58 +1,31 @@
 # New and Aspiring Labs: Basic Requirement
 
-## Basic Requirements for Fab Academy Participation
+## Basic Requirements for bio Academy Participation
 
-Here are the basic requirements and expectations for any lab that wishes to participate in the the Fab Academy course.
+Here are the basic requirements and expectations for any lab that wishes to participate in the the bio Academy course.
 
 Your lab MUST be equipped with the ALL necessary digital fabrication machines, electronics components and other supplies to be able to participate in the Academy. Labs that are not properly equipped are not eligible to participate in the Academy, as the students will not be able to complete the course.
 
-As this is a bleeding edge program, hardware and electronics specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: [the Fab Lab Inventory ](http://fab.cba.mit.edu/about/fab/inv.html)
+As this is a bleeding edge program, hardware and electronics specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: [the bio Lab Inventory ](http://bio.academany.org/doc/inventory)
 
 ## Necessary Machine Types
 
-* A computer-controlled laser cutter, for press-fit assembly of 3D structures from 2D parts.
-
-* A large (4'x8') numerically-controlled milling machine, for making furniture (and larger) sized parts.
-
-* A vinyl cutter, to produce printing masks, flexible circuits, and antennas.
-
-* A desktop sized precision (micron resolution) milling machine to make three-dimensional molds and surface-mount circuit boards.
-
-* Specific machine models (thoroughly tested and highly recommended but not required) are listed in [the Fab Lab Inventory ](http://fab.cba.mit.edu/about/fab/inv.html)
+coming soon  
 
 ## Necessary Supplies
 
-* Programming tools for low-cost high-speed embedded processors
-
-* Course-required surface mount electronics components
-
-* FR1 stock for machining circuit boards
-
-* Molding and casting supplies
-
-* Composites supplies
-
-* Cardboard, sheet plywood and other consumable stock materials
-
-Some of the hard to find materials are going to be made available in kit form (for a fee) during the course. Suggested lead time is 2 weeks in most places (allow for longer in remote locations) and reminders of what is needed within this 2 week window will be made during weekly prep meetings.
+coming soon  
 
 ### Do I need these specific machines and electronic components?
 
 Yes - you do.
-
-In order to fully participate in the class you will need the electronics components and other supplies. Do not skimp on the electronics, about half the course utilizes these components.
-
-In some rare cases, non-Fab Lab Inventory machines may be substituted, but this often causes serious problems for the students as the Academy Gurus are unable to support the unfamiliar machines remotely when things go wrong.
-
-We recommend the machines in the inventory for a reason, we have found them to be reliable, affordable and able to perform the necessary course tasks. Other machine will be considered on a case-by-case basis if your lab applies to be a Fab Academy site (Node) .
-
-It also violates the core Fab principle that "Fab labs share core capabilities, so that people and projects can be shared across them." - Neil Gershenfeld, [Fab Lab FAQ](http://fab.cba.mit.edu/about/faq/)
+More coming soon  
 
 ## Local Class Working Groups
 
-### What is the maximum / minimum number of students in a local Fab Academy class?
+### What is the maximum / minimum number of students in a local bio Academy class?
 
-Beyond a Local Instructor, a workgroup of students is required in order to create the necessary collaboration environment for a successful Fab Academy class.
+Beyond a Local Instructor, a workgroup of students is required in order to create the necessary collaboration environment for a successful bio Academy class.
 
 We have found that it is (nearly) impossible for a student to complete the course on their own and workgroup ensures that one student’s strong suit may help make up for another student’s weak spots and vice versa.
 

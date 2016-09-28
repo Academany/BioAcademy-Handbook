@@ -19,7 +19,7 @@ All classes and most meetings will take place on the CBA MCU.
 
 * The address of the MCUC is 18.85.8.50
 
-* Fab Academy Lectures are held in room 4 "Class" (4@18.85.8.48, 4@18.85.8.50).
+* Bio Academy Lectures are held in room 4 "Class" (4@18.85.8.48, 4@18.85.8.50).
 
 * The PINs are distributed via the [Instruct Mailing List](http://lists.fabcloud.io/cgi-bin/mailman/listinfo/instruct).
 
@@ -51,23 +51,7 @@ Similarly, make sure that your camera is on and that all class participants are 
 
 ## Email Lists
 
-As previously noted with regards to video conferencing, etiquette should also be observed in email conversations. Several email lists exist in order to make communication between the different groups within the Fab Academy structure easier and more organised.
-
-**class[year]@fabacademy.org**
-
-This is an email alias shared by all current Fab Academy students. [class14@fabacademy.org](mailto:class14@fabacademy.org) is for the 2014 class, [class15@fabacademy.org](mailto:class15@fabacademy.org) for 2015, etc.
-
-**instruct@fabacademy.org**
-
-This is an email alias shared by all current Fab Academy Instructors.
-
-**globaleval@fabacademy.org**
-
-This is the email alias for the Global Evaluation Committee tasked with grading.
-
-**alumni@fabacademy.org**
-
-This is an email alias onto which all graduates are entered upon completing Fab Academy.
+coming soon  
 
 **Add Youself**
 
@@ -79,4 +63,4 @@ The following email lists are high-volume lists. Students should first discuss t
 
 **Custom Email Lists**
 
-As an instructor or supernode Guru you may also choose to create your own alias in order to facilitate internal communication between your student’s (remote and local) and even yourself or your staff. i.e.: academy@fabLabbcn.org
+As an instructor or supernode Guru you may also choose to create your own alias in order to facilitate internal communication between your student’s (remote and local) and even yourself or your staff. 

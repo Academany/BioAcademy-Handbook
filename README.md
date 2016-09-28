@@ -2,6 +2,6 @@
 
 #### A resource for Students, Local Instructors, New (and old) Labs and Gurus alike
 
-*by Luciano Betoldi and Anna Kaziunas France*
+*by Luciano Betoldi, Anna Kaziunas France, Jean-michel Molenaar*
 
-*Rev.1.3 - GitBook Edition, September 2016*
+*Rev. 0.8 - GitBook Edition, September 2016*

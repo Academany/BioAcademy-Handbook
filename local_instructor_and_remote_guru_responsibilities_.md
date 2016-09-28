@@ -8,7 +8,7 @@ In addition, we will meet as instructors each week, it is vital that you attend 
 
 Local Instructors should commit to a **minimum of 16 weekly hours** on their duties during the Fab Academy program (January to June) divided into the following categories and based on a class of ~5 students:
 
-* Prep meeting and Neil’s Lecture	**(3.5h)**
+* Prep meeting and Faculty Lecture	**(3.5h)**
 
 * Homework Review			**(1.5h)**
 
@@ -59,23 +59,18 @@ Local instructors need to interview and inform their prospective students. It is
 
 ## Supply Chain: Stocking and Ordering
 
-The continually updated [Fab Lab Inventory](https://docs.google.com/spreadsheet/pub?key=0AtIlZyLn99e6dGRleUJTY043a3FucUhFUVVBYTdxS3c&single=true&gid=0&output=html) specifies the current list of [required materials and machines](#bookmark=id.843gxx6uvm3c). While some of the vendors listed are worldwide distributors, others are US only. This is noted in the inventory.
+The continually updated [Bio Lab Inventory](http://bio.academany.org/doc/inventory) specifies the current list of required materials and machines. While some of the vendors listed are worldwide distributors, others are US only. This is noted in the inventory.
 
 Announcements regarding changes in inventory or new items are sometimes made during the weekly prep meetings. **Local Instructors are responsible for ordering supplies for their students **and should leave some extra funds in the budget to account for new items being introduced during the course.
 
-Local ordering for the Fab Academy program (especially for [Specialty Items](#bookmark=id.qnicb3u7xhta)) should ideally be made in it’s entirety ahead of the start of the course. However, this is not always possible. It is then of the utmost importance to keep track of upcoming assignments and have items in stock and on premises at least 4 weeks in advance to when they will be needed, minimising the impact of possible shipping delays.
+Local ordering for the Bio Academy program (especially for Specialty Items) should ideally be made in it’s entirety ahead of the start of the course. However, this is not always possible. It is then of the utmost importance to keep track of upcoming assignments and have items in stock and on premises at least 4 weeks in advance to when they will be needed, minimising the impact of possible shipping delays.
 
 Some of the items we use are sometimes difficult to obtain in certain countries and this advanced purchasing timeframe is essential to ensure students are able to complete assignments on time.
 
-### Ordering Specialty Items: FR1 & Micro-Endmills, MTM(m) Stages
+### Ordering Specialty Items:
 
-Some specialty items are difficult to find in small quantities, **specifically, FR1 stock and micro-resolution endmills **used for all of the electronics units.
+coming soon
 
-[The Fab Foundation](http://fabfoundation.org) buys these items in bulk and can provide small quantities and at cost value to all participating labs.
-
-* **US, South America or Asia: **please contact Jean-Luc Pierite directly at:** ****[jeanluc.pierite at fabfoundation.or**g](mailto:jeanluc.pierite@fabfoundation.org)
-
-* **Europe, the Middle East or Africa**: Fab Lab Barcelona also manages stock for the Fab Foundation. To order from them please email: **[orders at fablabbcn.or**g](mailto:orders@fablabbcn.org)
 
 ## GIT Repositories
 
@@ -91,27 +86,7 @@ Local instructors and Remote Gurus must work with the students to ensure they ha
 
 **Your project must:**
 
-* be your own design
-
-* include an input device and an output device and two other digital fabrication processes
-
-* include 2D and 3D design
-
-* have a mechanical design aspect
-
-* have a license and a plan for distribution
-
-* fabricate, assemble and program a microcontroller board
-
-* all files must be linked and available:
-
-    * bill of materials (BOM), preferably with part numbers
-
-    * electronics design files (Eagle/Image/.cad/kokopelli - whatever used)
-
-    * code
-
-    * fabrication files
+coming soon  
 
 ## Group Final Projects:
 

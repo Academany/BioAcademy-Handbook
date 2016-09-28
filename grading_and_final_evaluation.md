@@ -12,32 +12,23 @@ In order to complete the program students need to satisfactorily complete *all *
 
 ### Complete Evaluation Life Cycle: Diagram
 
-![image alt text](image_0.jpg)
+coming soon
 
 ### Local Weekly Evaluation Cycle: Diagram
 
-![image alt text](image_1.jpg)
+coming soon
 
 ## Local Final Evaluation Cycle: Diagram
 
-![image alt text](image_2.jpg)
+coming soon
 
 ## Global Final Evaluation Cycle: Diagram
 
-![image alt text](image_3.jpg)
+coming soon
 
 ## Global Evaluation Committee
 
 Members of the global evaluation committee will each spend additional 10-20 hours making the final decision on graduation.   
-
-### **Volunteer - Help Us Out!**
-
-Have you been an instructor in the Academy for two or more years? Will you have completed one grading cycle as an instructor by July 2016?
-
-If so - we need you! Academy enrollment grows exponentially every year. Many hands make light work.
-
-If you'd like to volunteer, email [globaleval at fabacademy.org](mailto:globaleval@fabacademy.org) with the **subject heading "Eval Committee Volunteer"** and note labs and years as an instructor.
-
 
 
 ## How to Contact the Committee for Re-Evaluation
@@ -60,8 +51,8 @@ I realize that there are a few of you (or your students) that were missed or sli
 
 The Evaluation Committee members are **volunteering large amounts of their time** to review student work - after teaching the Academy all semester. Please keep this in mind.
 
-# Fab Academy Evaluation Criteria
+# Bio Academy Evaluation Criteria
 
-**Draft** evaluation criteria here (please check this document each week). Minor changes will be made to this document during Fab Academy, but changes to assessment requirements will only be made to future assignments, not completed assignments.
+**Draft** evaluation criteria here (please check this document each week). Minor changes will be made to this document during Bio Academy, but changes to assessment requirements will only be made to future assignments, not completed assignments.
 
 [https://docs.google.com/document/d/1zAWJiWkeQLfKYBh_vMmz1n4kAwyFWOgF-MGMqIPLSMOo/edit?usp=sharing](https://docs.google.com/document/d/1zAWJiWkeQLfKYBh_Mmz1n4kAwyFWOgF-MGMqIPLSMOo/edit?usp=sharing)
