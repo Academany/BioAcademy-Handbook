@@ -26,7 +26,7 @@ Remote Gurus working with labs without a local instructor should expect to spend
 
 1-2 weekly hours per remote student, attend lecture and prep meetings and may need to take on additional tasks - depending on their agreement with the local lab and the level of help needed.  
 
-* Prep meeting and Neil’s Lecture	**(3.5h)**
+* Prep meeting and Faculty Lecture	**(3.5h)**
 
 * Homework Review			**(1.5h)**
 

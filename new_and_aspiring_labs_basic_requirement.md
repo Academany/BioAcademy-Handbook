@@ -2,9 +2,9 @@
 
 ## Basic Requirements for bio Academy Participation
 
-Here are the basic requirements and expectations for any lab that wishes to participate in the the bio Academy course.
+Here are the basic requirements and expectations for any lab that wishes to participate in the the Bio Academy course.
 
-Your lab MUST be equipped with the ALL necessary digital fabrication machines, electronics components and other supplies to be able to participate in the Academy. Labs that are not properly equipped are not eligible to participate in the Academy, as the students will not be able to complete the course.
+Your lab MUST be equipped with the ALL necessary machines, electronics components, consumables and other supplies to be able to participate in the Academy. Labs that are not properly equipped are not eligible to participate in the Academy, as the students will not be able to complete the course.
 
 As this is a bleeding edge program, hardware and electronics specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: [the bio Lab Inventory ](http://bio.academany.org/doc/inventory)
 
@@ -13,7 +13,7 @@ As this is a bleeding edge program, hardware and electronics specification is co
 You need at least the setup as described here, either made by yourself or purchased commercially.
 
 ### Basic Bio Lab
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors / DIY                            | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | 5         | Pipetters P2/10/20/200/1000  | $100-1000   | [[http://www.pipette.com/vwrpipettes?gclid=CNXDnO2bxscCFdKPHwodzesN1A|LN]]                                        | all      |
 | 2         | Eppendorf tube racks         | $120        | [[http://www.pipette.com/public/Landing.aspx?lid=78&sbr=5165&sbn=Pipette.com%20Tube%20Racks%20and%20Holders|LN]]  | all      |
@@ -22,7 +22,7 @@ You need at least the setup as described here, either made by yourself or purcha
 
 ---------------------------
 ### Separation/Purification
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors / DIY                             | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Electrophoresis Box  |             | [[http://tiny.cc/gelelectbox|TF]] [[http://tinyurl.com/gsgh5wp|EB]]  | [[hardware#gelbox|YES]]  | 3        |
 | 1         | MicroCentrifuge          |             | [[http://www.ebay.com/bhp/microcentrifuge|EB]]                       |                          | 3, 4     |
@@ -30,7 +30,7 @@ You need at least the setup as described here, either made by yourself or purcha
 
 -------------------------
 ### Temperature Control
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors   / DIY                           | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | 1         | Refrigeration (-4/-20)  | ~$1000      | [[http://tinyurl.com/zrflska|EB]]                                                |                           | all      |
 | 1         | Thermal Cycler          | $85-3000    | [[http://www.ebay.com/bhp/thermal-cycler|EB]] [[http://tinyurl.com/gl9eyht|BR]]  | [[hardware#thermal|YES]]  | all      |
@@ -40,7 +40,7 @@ You need at least the setup as described here, either made by yourself or purcha
 
 ---------------
 ### Imaging and Sensors
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Imager               |  $1550      | [[http://tinyurl.com/gelimager|TF]]  | 3        |
 | 1         | Spectrophotometer        |             | [[hardware_spectrometer|OH]]         | all      |
@@ -50,7 +50,7 @@ You need at least the setup as described here, either made by yourself or purcha
 
 ---------------------------
 ### Glassware
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Imager  |   $1550    | [[http://tinyurl.com/gelimager|TF]]              | 3      |
 
@@ -58,7 +58,7 @@ Clean glass or plastic beakers (large enough to submerge slides)
 
 ---------------------------
 ### Safety
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Imager  |      | [[http://tinyurl.com/gelimager|TF]]              | 3      |
 
@@ -70,7 +70,7 @@ Lab safety kit
 
 ---------------------------
 ### Consumables
-|Quantity  | Description              | Cost Range  | Vendors                              | Classes  |
+|Quantity  | Description              | Cost Range  | Vendors   / DIY                           | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
 | S/M/L     | Gloves  |       | [[https://us.vwr.com/store/catalog/product.jsp?product_id=4547294|VWR]]             | all      |
 | 1000         | Eppendorf Tubes  |   ~$100    | [[http://tinyurl.com/gs86ntt|VWR]]              | 3      |
@@ -85,7 +85,7 @@ Syringe (20 ml; BD Medical, cat. no. 309661, http://www.fishersci.com/)
 Needles (18G; BD Medical, cat. no. 305195, http://www.fishersci.com/)
 
 
-### Non-Bio Equipment
+### Non-Bio Equipment (some of this could be found at a partner (fab) lab)
 * multimeter
 * laser cutter
 * laptop or desktop computer
