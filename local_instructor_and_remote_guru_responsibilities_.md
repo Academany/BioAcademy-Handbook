@@ -9,13 +9,9 @@ In addition, we will meet as instructors each week, it is vital that you attend 
 Local Instructors should commit to a **minimum of 16 weekly hours** on their duties during the Fab Academy program (January to June) divided into the following categories and based on a class of ~5 students:
 
 * Prep meeting and Faculty Lecture	**(3.5h)**
-
 * Homework Review			**(1.5h)**
-
 * Student support hours		**(6h-8h minimum)**
-
 * Grading				**(1h)**
-
 * Stock control and ordering		**(2h)**
 
 
