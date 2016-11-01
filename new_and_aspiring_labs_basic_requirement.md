@@ -15,10 +15,10 @@ You need at least the setup as described here, either made by yourself or purcha
 ### Basic Bio Lab
 |Quantity  | Description              | Cost Range  | Vendors / DIY                            | Classes  |
 |---       | ---                      | ---         | ---                                  | ---      |
-| 5         | Pipetters P2/10/20/200/1000  | $100-1000   | [LN](http://www.pipette.com/vwrpipettes?gclid=CNXDnO2bxscCFdKPHwodzesN1A)                                        | all      |
-| 2         | Eppendorf tube racks         | $120        | [LN](http://www.pipette.com/public/Landing.aspx?lid=78&sbr=5165&sbn=Pipette.com%20Tube%20Racks%20and%20Holders)  | all      |
-| 1         | Scale                        | $1,582      | [LN](http://www.pipette.com/Balances?sbr=3545&sbn=A&D%20FC-i%20Series%20Scale)                                  | all      |
-| 1         | Water Purification System    |             | [MP](http://tinyurl.com/gw3xafv)                                                                                 | all      |
+| 5 | Pipetters P2/10/20/200/1000  | $100-1000 | [LN](http://www.pipette.com/vwrpipettes?gclid=CNXDnO2bxscCFdKPHwodzesN1A) | all      |
+| 2 | Eppendorf tube racks         | $120      | [LN](http://www.pipette.com/public/Landing.aspx?lid=78&sbr=5165&sbn=Pipette.com%20Tube%20Racks%20and%20Holders) | all      |
+| 1 | Scale        | $1,582        | [LN](http://www.pipette.com/Balances?sbr=3545&sbn=A&D%20FC-i%20Series%20Scale)     | all      |
+| 1 | Water Purification System    |             | [MP](http://tinyurl.com/gw3xafv)                             | all      |
 
 ---------------------------
 ### Separation/Purification
