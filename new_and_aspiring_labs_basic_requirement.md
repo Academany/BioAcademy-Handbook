@@ -6,7 +6,7 @@ Here are the basic requirements and expectations for any lab that wishes to part
 
 Your lab MUST be equipped with the ALL necessary machines, electronics components, consumables and other supplies to be able to participate in the Academy. Labs that are not properly equipped are not eligible to participate in the Academy, as the students will not be able to complete the course.
 
-As this is a bleeding edge program, hardware and electronics specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: [the bio Lab Inventory ](http://bio.academany.org/doc/inventory)
+As this is a bleeding edge program, hardware and electronics specification is continually being updated. For the most up-to-date list of recommended machines and supplies, see: [the Bio Lab Inventory](http://bio.academany.org/doc/inventory)
 
 ## Necessary Machines, tools and consumables for Participation
 
@@ -23,7 +23,7 @@ You need at least the setup as described here, either made by yourself or purcha
 ---------------------------
 ### Separation/Purification
 |Quantity  | Description              | Cost Range  | Vendors / DIY                             | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
+|:---:      | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Electrophoresis Box  |             | [TF](http://tiny.cc/gelelectbox) [EB](http://tinyurl.com/gsgh5wp)   | 3        |
 | 1         | MicroCentrifuge          |             | [EB](http://www.ebay.com/bhp/microcentrifuge)                       |                           3, 4     |
 | 1         | Vortexer                 |             |                                                                      |                           3, 4     |
@@ -31,7 +31,7 @@ You need at least the setup as described here, either made by yourself or purcha
 -------------------------
 ### Temperature Control
 |Quantity  | Description              | Cost Range  | Vendors   / DIY                           | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
+|:---:      | ---                      | ---         | ---                                  | ---      |
 | 1 | Refrigeration (-4/-20)  | ~$1000      | [EB](http://tinyurl.com/zrflska)                                                      | all      |
 | 1         | Thermal Cycler          | $85-3000    | [EB](http://www.ebay.com/bhp/thermal-cycler) [BR](http://tinyurl.com/gl9eyht)  | all      |
 | 1         | Incubator               | ~$300       | [EB](http://tinyurl.com/jea464z)                                                                       | all      |
@@ -41,7 +41,7 @@ You need at least the setup as described here, either made by yourself or purcha
 ---------------
 ### Imaging and Sensors
 |Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
+|:---:       | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Imager               |  $1550      | [TF](http://tinyurl.com/gelimager) | 3        |
 | 1         | Spectrophotometer        |             |        | all      |
 | 1         | Microscope               |             |                       | all      |
@@ -51,7 +51,7 @@ You need at least the setup as described here, either made by yourself or purcha
 ---------------------------
 ### Glassware
 |Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
+|:---:      | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Imager  |   $1550    | [TF](http://tinyurl.com/gelimager)              | 3      |
 
 Clean glass or plastic beakers (large enough to submerge slides)
@@ -59,7 +59,7 @@ Clean glass or plastic beakers (large enough to submerge slides)
 ---------------------------
 ### Safety
 |Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
+|:---:       | ---                      | ---         | ---                                  | ---      |
 | 1         | Gel Imager  |      | [TF](http://tinyurl.com/gelimager)             | 3      |
 
 Chemical hood   
@@ -69,7 +69,7 @@ Lab safety kit
 ---------------------------
 ### Consumables
 |Quantity  | Description              | Cost Range  | Vendors   / DIY                           | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
+|:---:     | ---                      | ---         | ---                                  | ---      |
 | S/M/L     | Gloves  |       | [VWR](https://us.vwr.com/store/catalog/product.jsp?product_id=4547294)            | all      |
 | 1000         | Eppendorf Tubes  |   ~$100    | [VWR](http://tinyurl.com/gs86ntt)             | 3      |
 | 1000         | PCR Tubes  |  ~$100     | [VWR](http://tinyurl.com/hq5zb2s)              | 3      |
@@ -89,7 +89,7 @@ Needles (18G; BD Medical, cat. no. 305195, http://www.fishersci.com/)
 * laptop or desktop computer
 * standard toolbox tools: wrenches, wire cutters, screwdrivers
 * Webcam
-* arduino/electronicsßrodes)
+* microcontrollers (arduino or other) /electronics)
 * 3d-printer(s) - at least FDM printers, ideally also an SLA printer.
 
 -----------------------
@@ -101,7 +101,7 @@ Needles (18G; BD Medical, cat. no. 305195, http://www.fishersci.com/)
 
 ### Do I need these specific machines and electronic components?
 
-Yes - you do. - All homework depends on students having access to the right tools and equipement.
+Yes - you do. - All homework depends on students having access to the right tools and equipment.
 
 
 ## Local Class Working Groups

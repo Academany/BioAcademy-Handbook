@@ -10,19 +10,19 @@ In order to complete the program students need to satisfactorily complete *all *
 
 **_Please keep in mind that these diagrams were designed last year and as so, the dates on them may not be current in some cases, yet the flow and logic remains. We will update them as soon as possible but please ignore the actual dates. _**
 
-### Complete Evaluation Life Cycle: Diagram
+### Complete Evaluation Life Cycle
 
 coming soon
 
-### Local Weekly Evaluation Cycle: Diagram
+### Local Weekly Evaluation Cycle
 
 coming soon
 
-## Local Final Evaluation Cycle: Diagram
+## Local Final Evaluation Cycle
 
 coming soon
 
-## Global Final Evaluation Cycle: Diagram
+## Global Final Evaluation Cycle
 
 coming soon
 
