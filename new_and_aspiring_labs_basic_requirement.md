@@ -13,54 +13,53 @@ As this is a bleeding edge program, hardware and electronics specification is co
 You need at least the setup as described here, either made by yourself or purchased commercially.
 
 ### Basic Bio Lab
-|Quantity  | Description              | Cost Range  | Vendors / DIY                            | Classes  |
-|:---:     | ---                      | ---         | ---                                  | ---      |
-| 5 | Pipetters P2/10/20/200/1000  | $100-1000 | [LN](http://www.pipette.com/vwrpipettes?gclid=CNXDnO2bxscCFdKPHwodzesN1A) | all      |
-| 2 | Eppendorf tube racks         | $120      | [LN](http://www.pipette.com/public/Landing.aspx?lid=78&sbr=5165&sbn=Pipette.com%20Tube%20Racks%20and%20Holders)| all      |
-| 1 | Scale        | $1,582        | [LN](http://www.pipette.com/Balances?sbr=3545&sbn=A&D%20FC-i%20Series%20Scale)     | all      |
-| 1 | Water Purification System    |             | [MP](http://tinyurl.com/gw3xafv)                             | all      |
+| Quantity | Description                 | Cost Range | Vendors / DIY                            | Classes |
+| :------: | --------------------------- | ---------- | ---------------------------------------- | ------- |
+|    5     | Pipetters P2/10/20/200/1000 | $100-1000  | [LN](http://www.pipette.com/vwrpipettes?gclid=CNXDnO2bxscCFdKPHwodzesN1A) | all     |
+|    2     | Eppendorf tube racks        | $120       | [LN](http://www.pipette.com/public/Landing.aspx?lid=78&sbr=5165&sbn=Pipette.com%20Tube%20Racks%20and%20Holders) | all     |
+|    1     | Scale                       | $1,582     | [LN](http://www.pipette.com/Balances?sbr=3545&sbn=A&D%20FC-i%20Series%20Scale) | all     |
+|    1     | Water Purification System   |            | [MP](http://tinyurl.com/gw3xafv)         | all     |
 
 ---------------------------
 ### Separation/Purification
-|Quantity  | Description              | Cost Range  | Vendors / DIY                             | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
-| 1         | Gel Electrophoresis Box  |             | [TF](http://tiny.cc/gelelectbox) [EB](http://tinyurl.com/gsgh5wp)   | 3        |
-| 1         | MicroCentrifuge          |             | [EB](http://www.ebay.com/bhp/microcentrifuge)                       |                           3, 4     |
-| 1         | Vortexer                 |             |                                                                      |                           3, 4     |
+| Quantity | Description             | Cost Range | Vendors / DIY                            | Classes |
+| :------: | :---------------------- | :--------- | ---------------------------------------- | ------- |
+|    1     | Gel Electrophoresis Box |            | [TF](http://tiny.cc/gelelectbox) [EB](http://tinyurl.com/gsgh5wp) | 3       |
+|    1     | MicroCentrifuge         |            | [EB](http://www.ebay.com/bhp/microcentrifuge) | 3, 4    |
+|    1     | Vortexer                |            |                                          | 3, 4    |
 
 -------------------------
 ### Temperature Control
-|Quantity  | Description              | Cost Range  | Vendors   / DIY                           | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
-| 1 | Refrigeration (-4/-20)  | ~$1000      | [EB](http://tinyurl.com/zrflska)                                                      | all      |
-| 1         | Thermal Cycler          | $85-3000    | [EB](http://www.ebay.com/bhp/thermal-cycler) [BR](http://tinyurl.com/gl9eyht)  | all      |
-| 1         | Incubator               | ~$300       | [EB](http://tinyurl.com/jea464z)                                                                       | all      |
-| 1         | -80 freezer/dry ice     |                                                                                             |                           | all      |
-
+| Quantity | Description            | Cost Range | Vendors   / DIY                          | Classes |
+| :------: | ---------------------- | ---------- | ---------------------------------------- | ------- |
+|    1     | Refrigeration (-4/-20) | ~$1000     | [EB](http://tinyurl.com/zrflska)         | all     |
+|    1     | Thermal Cycler         | $85-3000   | [EB](http://www.ebay.com/bhp/thermal-cycler) [BR](http://tinyurl.com/gl9eyht) | all     |
+|    1     | Incubator              | ~$300      | [EB](http://tinyurl.com/jea464z)         | all     |
+|    1     | -80 freezer/dry ice    |            |                                          | all     |
 
 ---------------
 ### Imaging and Sensors
-|Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
-| 1         | Gel Imager               |  $1550      | [TF](http://tinyurl.com/gelimager) | 3        |
-| 1         | Spectrophotometer        |             |        | all      |
-| 1         | Microscope               |             |                       | all      |
-| 1         | Fluorescence Microscope  |             |                    | all      |
-| 1         | Turbidity Measurement    |             |                                 | all      |
+| Quantity | Description             | Cost Range | Vendors  / DIY                     | Classes |
+| :------: | ----------------------- | ---------- | ---------------------------------- | ------- |
+|    1     | Gel Imager              | $1550      | [TF](http://tinyurl.com/gelimager) | 3       |
+|    1     | Spectrophotometer       |            |                                    | all     |
+|    1     | Microscope              |            |                                    | all     |
+|    1     | Fluorescence Microscope |            |                                    | all     |
+|    1     | Turbidity Measurement   |            |                                    | all     |
 
 ---------------------------
 ### Glassware
-|Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
-| 1         | Gel Imager  |   $1550    | [TF](http://tinyurl.com/gelimager)              | 3      |
+| Quantity | Description | Cost Range | Vendors  / DIY                     | Classes |
+| :------: | ----------- | ---------- | ---------------------------------- | ------- |
+|    1     | Gel Imager  | $1550      | [TF](http://tinyurl.com/gelimager) | 3       |
 
 Clean glass or plastic beakers (large enough to submerge slides)
 
 ---------------------------
 ### Safety
-|Quantity  | Description              | Cost Range  | Vendors  / DIY                            | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
-| 1         | Gel Imager  |      | [TF](http://tinyurl.com/gelimager)             | 3      |
+| Quantity | Description | Cost Range | Vendors  / DIY                     | Classes |
+| :------: | ----------- | ---------- | ---------------------------------- | ------- |
+|    1     | Gel Imager  |            | [TF](http://tinyurl.com/gelimager) | 3       |
 
 Chemical hood   
 Eye protection   
@@ -68,12 +67,12 @@ Lab safety kit
 
 ---------------------------
 ### Consumables
-|Quantity  | Description              | Cost Range  | Vendors   / DIY                           | Classes  |
-|---       | ---                      | ---         | ---                                  | ---      |
-| S/M/L     | Gloves  |       | [VWR](https://us.vwr.com/store/catalog/product.jsp?product_id=4547294)            | all      |
-| 1000         | Eppendorf Tubes  |   ~$100    | [VWR](http://tinyurl.com/gs86ntt)             | 3      |
-| 1000         | PCR Tubes  |  ~$100     | [VWR](http://tinyurl.com/hq5zb2s)              | 3      |
-| 10uL - 1mL         | Pipette tips  |  ~$500     | [PIP](http://www.pipette.com/BulkTips) [VWR](http://tinyurl.com/godhvcq)              | all      |
+|  Quantity  | Description     | Cost Range | Vendors   / DIY                          | Classes |
+| :--------: | --------------- | ---------- | ---------------------------------------- | ------- |
+|   S/M/L    | Gloves          |            | [VWR](https://us.vwr.com/store/catalog/product.jsp?product_id=4547294) | all     |
+|    1000    | Eppendorf Tubes | ~$100      | [VWR](http://tinyurl.com/gs86ntt)        | 3       |
+|    1000    | PCR Tubes       | ~$100      | [VWR](http://tinyurl.com/hq5zb2s)        | 3       |
+| 10uL - 1mL | Pipette tips    | ~$500      | [PIP](http://www.pipette.com/BulkTips) [VWR](http://tinyurl.com/godhvcq) | all     |
 
 ---------------------------
 
@@ -89,7 +88,7 @@ Needles (18G; BD Medical, cat. no. 305195, http://www.fishersci.com/)
 * laptop or desktop computer
 * standard toolbox tools: wrenches, wire cutters, screwdrivers
 * Webcam
-* arduino/electronicsßrodes)
+* arduino/electronics
 * 3d-printer(s) - at least FDM printers, ideally also an SLA printer.
 
 -----------------------
