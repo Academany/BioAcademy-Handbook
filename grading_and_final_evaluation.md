@@ -6,9 +6,8 @@ Local Instructors should be evaluating student work periodically throughout the 
 
 Instructors must review each student’s work according to the documentation provided by the student, NOT what was observed in the lab. Instructors should discuss incomplete work / documentation with a student on an ongoing basis. There should be no surprises at the end of the course.
 
-In order to complete the program students need to satisfactorily complete *all *assignments and their final project.
+In order to complete the program students need to satisfactorily complete all assignments and their final project.
 
-**_Please keep in mind that these diagrams were designed last year and as so, the dates on them may not be current in some cases, yet the flow and logic remains. We will update them as soon as possible but please ignore the actual dates. _**
 
 ### Complete Evaluation Life Cycle
 
@@ -33,19 +32,14 @@ Members of the global evaluation committee will each spend additional 10-20 hour
 
 ## How to Contact the Committee for Re-Evaluation
 
-I realize that there are a few of you (or your students) that were missed or slipped through the cracks during the last round.
-
 *Any instructor who has a student that needs to be re-evaluated from a previous year should:*
 
 1. Review the student’s work themselves first
-
 2. If the student is complete, contact the global evaluation committee on the email address above.
-
-3. Use the *email subject heading*** "Re-Evaluation Requested: STUDENT NAME"**
-
+3. Use the email subject heading "Re-Evaluation Requested: STUDENT NAME"
 4. Then the committee will review and determine final graduation status
 
-**Use of consistent subject headings **will help us sort and filter our huge piles of email much more easily and** enable us to more quickly address your situation. **We truly want to get last year's limbo graduation decisions resolved.
+**Use of consistent subject headings will help us sort and filter our huge piles of email much more easily and** enable us to more quickly address your situation.
 
 ## Why Re-Evaluation Backlogs Happen
 
@@ -55,4 +49,4 @@ The Evaluation Committee members are **volunteering large amounts of their time*
 
 **Draft** evaluation criteria here (please check this document each week). Minor changes will be made to this document during Bio Academy, but changes to assessment requirements will only be made to future assignments, not completed assignments.
 
-[https://docs.google.com/document/d/1zAWJiWkeQLfKYBh_vMmz1n4kAwyFWOgF-MGMqIPLSMOo/edit?usp=sharing](https://docs.google.com/document/d/1zAWJiWkeQLfKYBh_Mmz1n4kAwyFWOgF-MGMqIPLSMOo/edit?usp=sharing)
+[Bio Academny assessment](http://docs.academany.org/BioAcademy-Assessment/_book/)

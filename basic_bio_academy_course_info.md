@@ -2,7 +2,7 @@
 
 ## Weekly Schedule and Topics Covered
 
-This is subject to change every year: please check your current year [http://archive.fabacademy.org/archives/](http://archive.fabacademy.org/archives/)
+This is subject to change every year: please check your current year [Class archives](http://bio.academany.org/doc)
 
 ## Class Meeting Times
 
@@ -10,7 +10,7 @@ Global lectures happen on Wednesdays at 9:00 AM EST (ranging from 6:00 on the We
 
 Refer to the current schedule for detailed information.
 
-Local Instructors and Gurus are also required to attend the weekly prep meeting on Wednesdays 8:30 AM EST, 30 minutes** **before the start of class.
+Local Instructors and Gurus are also required to attend the weekly prep meeting on Wednesdays 8:30 AM EST, 30 minutes before the start of class.
 
 ## Students: Basic Course Requirements
 
@@ -46,22 +46,15 @@ You must share all of your digital design files and code (where applicable) to p
 
 ### Student Rights and Expectations
 
-**You have the right to expect: **
+**You have the right to expect:**
 
 * Access to working and well-maintained digital fabrication machines in your local lab.
-
 * That all the necessary course materials will be provided for you by the local lab before the necessary unit.
-
-    *  This includes sheet goods, molding and casting supplies and electronics components.
-
+*  This includes sheet goods, molding and casting supplies and electronics components.
 * Meeting at least three times a week with your local instructor.
-
-    * Two meetings are devoted to hands-on machine instruction, general lab access and direct physical access to the local instructor for questions, tutoring, etc.
-
-    * The third session each week is devoted to Wednesday’s lecture session with Neil Gershenfeld.
-
+* Two meetings are devoted to hands-on machine instruction, general lab access and direct physical access to the local instructor for questions, tutoring, etc.
+* The third session each week is devoted to Wednesday’s lecture session with Neil Gershenfeld.
 * That your local instructor / remote guru will be available to answer questions via email during the week - outside of class.
-
 * That your local instructor will give you meaningful feedback on your work and documentation. If your documentation is unsatisfactory, the Local Instructor will help you to get it up to par.
 
 **If you have a Remote Guru assigned, you should expect that:**
@@ -75,13 +68,8 @@ It is your responsibility to be proactive in the Fab Academy course. This course
 However you are responsible for:
 
 * Designing and fabricating your own projects
-
-    * It’s fine to begin with someone else’s files, but it is not acceptable to pass someone else’s work off as your own.
-
-    * Cite all your sources and inspirations.
-
+* It’s fine to begin with someone else’s files, but it is not acceptable to pass someone else’s work off as your own.
+* Cite all your sources and inspirations.
 * Getting your work done on time for each weekly cycle.
-
 * Documenting your work in HTML
-
 * Ensuring that your documentation is in the class archive. Work that is not in the archive will not be evaluated.
