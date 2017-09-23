@@ -26,7 +26,7 @@ The Fab Academy meets as a class for lecture, homework review and other meetings
 
 * You have ordered (or are working with the Fab Foundation to order) all the [necessary course materials](#bookmark=id.843gxx6uvm3c).
 
-* Your lab meets the [Video Conferencing](#bookmark=kix.2ye0c7enqpuy) requirements AND your lab has "test connected" to the MCU PRIOR TO CLASS to ensure that:
+* Your lab meets the [Video Conferencing](#bookmark=kix.2ye0c7enqpuy) requirements AND your lab has "test connected" to the video conferencing system to ensure that:
 
     * your network can handle the bandwidth required
 
