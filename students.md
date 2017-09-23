@@ -2,4 +2,4 @@
 
 ## what you can expect ##
 
-## what your responsabilities are ##
+## what your responsibilities are ##
