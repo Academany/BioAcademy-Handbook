@@ -19,12 +19,6 @@ Bio Academy Faculty Manager
 
 [David kong](mailto:dkong@mit.edu)
 
-**Luciana Asinari**
-
-Bio Academy Admission Office
-
-[luciana.asinari@iaac.net](mailto:luciana.asinari@iaac.net)
-
 **Fiore Basile**
 
 Bio Academy Developer and IT Guru

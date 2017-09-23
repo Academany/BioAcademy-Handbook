@@ -55,7 +55,7 @@ Local instructors need to interview and inform their prospective students. It is
 
 ## Supply Chain: Stocking and Ordering
 
-The continually updated [Bio Lab Inventory](http://bio.academany.org/doc/inventory) specifies the current list of required materials and machines. While some of the vendors listed are worldwide distributors, others are US only. This is noted in the inventory.
+The continually updated [Bio Lab Inventory]() (coming soon) specifies the current list of required materials and machines. While some of the vendors listed are worldwide distributors, others are US only. This is noted in the inventory.
 
 Announcements regarding changes in inventory or new items are sometimes made during the weekly prep meetings. **Local Instructors are responsible for ordering supplies for their students **and should leave some extra funds in the budget to account for new items being introduced during the course.
 
@@ -89,7 +89,3 @@ coming soon
 Must show clearly "decomposable" tasks for each student.
 
 This means, each student must complete a complete system that demonstrates that they individually completed all of the final project minimum requirements listed above.
-
-## Final Project Budget: Ideally $10+ , not $100+  (whatever Neil said in class)
-
-(make parts - where possible - instead of buying)
